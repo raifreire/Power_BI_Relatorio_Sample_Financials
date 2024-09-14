@@ -32,5 +32,12 @@ Este projeto tem como objetivo aplicar os conhecimentos adquiridos em análise d
 ## Recursos Adicionais
 * [https://learn.microsoft.com/pt-br/training/modules/explore-power-bi-service/2-find-content]
 
-  ## Imagens do Relatório
- [Relatorios do Power BI .pdf](https://github.com/user-attachments/files/17000226/Relatorios.Samples.do.Power.BI.1.pdf)
+## Imagens do Relatório
+
+  ![img-1](https://github.com/user-attachments/assets/7167f37b-f476-416e-9e66-c2e684538958)
+
+
+  ![img-2](https://github.com/user-attachments/assets/73631069-9377-4731-a96e-e6db0d83ab8b)
+
+
+  ![img-3](https://github.com/user-attachments/assets/ba06370b-dee1-4081-8c68-609f395ea216)
