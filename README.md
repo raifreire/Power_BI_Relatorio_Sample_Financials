@@ -41,3 +41,10 @@ Este projeto tem como objetivo aplicar os conhecimentos adquiridos em análise d
 
 
   ![img-3](https://github.com/user-attachments/assets/ba06370b-dee1-4081-8c68-609f395ea216)
+  
+  
+  ![img-4](https://github.com/user-attachments/assets/d52684f1-70a4-4711-a68d-32e6ad5c0f58)
+
+
+  ![img-5](https://github.com/user-attachments/assets/99c03f26-c497-4fd2-977d-be27f17633e0)
+
